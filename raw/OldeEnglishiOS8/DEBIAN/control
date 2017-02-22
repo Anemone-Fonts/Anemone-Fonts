@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.OldeEnglishiOS8
+Name: Olde English (iOS 8) Font for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Olde English (iOS 8) Font for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 8 Anemone)
+Depiction: https://anemone-fonts.us/dep/OldeEnglishiOS8/index.html

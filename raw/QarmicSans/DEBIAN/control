@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.QarmicSans
+Name: Qarmic Sans Font for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Qarmic Sans Font for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/QarmicSans/index.html

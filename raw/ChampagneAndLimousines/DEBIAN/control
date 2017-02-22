@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.ChampagneAndLimousines
+Name: Champagne And Limousines Font for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Champagne And Limousines Font for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/ChampagneAndLimousines/index.html

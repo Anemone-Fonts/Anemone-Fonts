@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.LoveIsComplicatedAgain
+Name: Love Is Complicated Again font for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Love Is Complicated Again font for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/LoveIsComplicatedAgain/index.html

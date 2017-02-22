@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.Neuropol
+Name: Neuropol Font for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Neuropol Font for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/Neuropol/index.html

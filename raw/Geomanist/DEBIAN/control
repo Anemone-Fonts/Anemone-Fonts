@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.Geomanist
+Name: Geomanist Font Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Geomanist Font Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/Geomanist/index.html

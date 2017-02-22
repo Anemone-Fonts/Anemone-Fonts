@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.BarioliOS7
+Name: Bariol (iOS 7) Font for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bariol (iOS 7) Font for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 7 Anemone)
+Depiction: https://anemone-fonts.us/dep/BarioliOS7/index.html

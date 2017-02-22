@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.MetroNovaPro
+Name: Metro Nova Pro Font Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Metro Nova Pro Font Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/MetroNovaPro/index.html

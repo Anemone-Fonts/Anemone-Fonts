@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.ClearSans
+Name: Clear Sans Font Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Clear Sans Font Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/ClearSans/index.html

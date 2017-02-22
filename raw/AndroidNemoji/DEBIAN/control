@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.AndroidNemoji
+Name: Android N Emoji for iOS 9
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Android N Emoji for iOS 9
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/AndroidNemoji/index.html
