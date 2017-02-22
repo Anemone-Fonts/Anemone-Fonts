@@ -1,0 +1,284 @@
+@font-face {
+  font-family: 'AlegreyaSans';
+  src: url('./woff/AlegreyaSans.woff') format('woff');
+}
+
+@font-face {
+font-family: 'ArchitectsDaughter';
+src: url('./woff/ArchitectsDaughter.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src:url('./woff/AvenirNext.woff') format('woff');
+}
+
+@font-face {
+   font-family: 'AvenirNextCondensed';
+   src:url('./woff/AvenirNextCondensed.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bariol';
+src: url('./woff/Bariol.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Baumans';
+  src:url('./woff/Baumans.woff') format('woff');
+}
+
+@font-face {
+font-family: 'BeatsByDre';
+src: url('./woff/BeatsByDre.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Billabong';
+  src: url('./woff/Billabong.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Blanch';
+src: url('./woff/Blanch.woff') formatt('woff');
+}
+
+@font-face {
+  font-family: 'BubblegumSans';
+  src: url('./woff/BubblegumSans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Cabin';
+  src: url('./woff/Cabin.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Calibri';
+  src: url('./woff/Calibri.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('./woff/CaviarDreams.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ChampagneAndLimousines';
+  src: url('./woff/ChampagneAndLimousines.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Cicle';
+  src: url('./woff/Cicle.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Circular';
+  src: url('./woff/Circular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ClearSans';
+  src: url('./woff/ClearSans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('./woff/Comfortaa.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'CorporativeSansRounded';
+  src: url('./woff/CorporativeSansRounded.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DinDisplayPro';
+  src: url('./woff/DinDisplayPro.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DroidSans';
+  src: url('./woff/DroidSans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Exo';
+  src: url('./woff/Exo.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GeoSansLight';
+  src: url('./woff/GeoSansLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GothamNarrow';
+  src: url('./woff/Iskra.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'HattoriHanzo';
+  src: url('./woff/HattoriHanzo.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('./woff/HelveticaNeue') format('woff');
+}
+
+@font-face {
+  font-family: 'Iskra';
+  src: url('./woff/Iskra.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JohnSansPro';
+  src: url('./woff/JohnSansPro.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('./woff/Lato.woff') format('woff');
+}
+
+@font-face {
+font-family: 'LatoLight';
+src: url('./woff/LatoLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'LobsterTwo';
+  src: url('./woff/LobsterTwo.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'LoveIsComplicatedAgain';
+  src: url('./woff/LoveIsComplicatedAgain.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MetroNovaPro';
+  src: url('./woff/MetroNovaPro.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MuseoSansRounded';
+  src: url('./woff/MuseoSansRounded.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MyriadSetPro';
+  src: url('./woff/MyriadSetPro.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'NeoTech';
+  src: url('./woff/NeoTech.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Neuropol';
+  src: url('./woff/Neuropol.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Neutraface';
+  src: url('./woff/Neutraface.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'NovelSansRounded';
+  src: url('./woff/NovelSansRounded.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'OldeEnglish';
+  src: url('./woff/OldeEnglish.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Omnes';
+  src: url('./woff/Omnes.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url('./woff/OpenSans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Oxygen';
+  src: url('./woff/Oxygen.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ProductSans';
+  src: url('./woff/ProductSans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('./woff/ProximaNova.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'QarmicSans';
+  src: url('./woff/QarmicSans.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./woff/Roboto.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'RobotoCondensedLight';
+  src: url('./woff/RobotoCondensedLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('./woff/RobotoSlab.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'SanFranciscoRounded';
+  src: url('./woff/SanFranciscoRounded.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('./woff/SegoeUI.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Solido';
+  src: url('./woff/Solido.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Tabitha';
+  src: url('./woff/Tabitha.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('./woff/Ubuntu.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'UbuntuLight';
+  src: url('./woff/UbuntuLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'VagRounded';
+  src: url('./woff/VagRounded.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'VarelaRound';
+  src: url('./woff/VarelaRound.woff') format('woff');
+}
