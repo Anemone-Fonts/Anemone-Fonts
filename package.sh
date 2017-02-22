@@ -1,6 +1,6 @@
 echo Creating New .deb’s
 
-dpkg-deb -Zlzma -b raw/AlegreyaSans deb/
+# dpkg-deb -Zlzma -b raw/AlegreyaSans deb/
 dpkg-deb -Zlzma -b raw/AndroidNemoji deb/
 dpkg-deb -Zlzma -b raw/ArchitectsDaughter deb/
 dpkg-deb -Zlzma -b raw/AvenirNext deb/

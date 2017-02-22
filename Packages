@@ -1,0 +1,1216 @@
+Package: us.anemone-fonts.AlegreyaSans
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.alegreyasans_1.1_iphoneos-arm.deb
+Size: 4488824
+MD5sum: 0ab5fbe98f16cd5872d450e11fe5b7d9
+SHA1: fa6c4268495d32f1ced6f3670c11a16e9ec67e06
+SHA256: c9aebc5a0e6900a10145834471639a685d338dca78c9ee54202ee5e2f60116a4
+Section: Fonts (iOS 9 Anemone)
+Description: Alegreya Sans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/AlegreyaSans/index.html
+Name: Alegreya Sans Font for Anemone
+
+Package: us.anemone-fonts.AndroidNemoji
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.androidnemoji_1.0_iphoneos-arm.deb
+Size: 47375128
+MD5sum: 5cb1e104527671b0dae7416a7b0721ed
+SHA1: 742db9b2272929e1ada648a458459cc78face0d3
+SHA256: 31ea7b0157d13a461ac5f66c4c6a241a41bf7c4907004dba2c2a7d577c3189c8
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Description: Android N Emoji for iOS 9
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/AndroidNemoji/index.html
+Name: Android N Emoji for iOS 9
+
+Package: us.anemone-fonts.ArchitectsDaughter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.architectsdaughter_1.0_iphoneos-arm.deb
+Size: 3215962
+MD5sum: a5ef20fe7d3d6fbe3877093235a4c550
+SHA1: e563c52e17c8460ca44a053ca5f7fbe1fa15ebc9
+SHA256: 446cda13dab7e47566e7ca1c9494808da3d865f431c3d9cb10199db5cb06cc43
+Section: Fonts (iOS 9 Anemone)
+Description: Architects Daughter Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/ArchitectsDaughter/index.html
+Name: Architects Daughter Font for Anemone
+
+Package: us.anemone-fonts.AvenirNext
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.avenirnext_1.0_iphoneos-arm.deb
+Size: 5060580
+MD5sum: 1b082dab7fce88318aa3afaa310fdea3
+SHA1: 48950f43e0967b101b6141d6cf7beebadb9c8ebc
+SHA256: afa3996025bb0029350efff64bd4c620098ea854f3dec5bad2728686e4e67219
+Section: Fonts (iOS 9 Anemone)
+Description: Avenir Next Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/AvenirNext/index.html
+Name: Avenir Next Font for Anemone
+
+Package: us.anemone-fonts.AvenirNextCondensed
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.avenirnextcondensed_1.0_iphoneos-arm.deb
+Size: 4570102
+MD5sum: 9510af1a330fd4a490dc3bb9010f4ee0
+SHA1: b558c9e6a405648ebd641c665a838937641dbe23
+SHA256: a87f93ab8b2ecf5b2155650eed9cdd4ff89874d08101461a2e42e1cc3defe550
+Section: Fonts (iOS 9 Anemone)
+Description: Avenir Next Condensed Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/AvenirNextCondensed/index.html
+Name: Avenir Next Condensed Font for Anemone
+
+Package: us.anemone-fonts.BariolSerif
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.bariolserif_1.0_iphoneos-arm.deb
+Size: 5584062
+MD5sum: a0e16c6d761dbc287b502e75772d0eb5
+SHA1: 11f48d5af7bee9787c924cf1aedd16a39cd2e4bf
+SHA256: a5a38c8d98501d57ff061d48a51674b4463de5993d04aa32b455414067ef81ee
+Section: Fonts (iOS 9 Anemone)
+Description: Bariol Serif Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/BariolSerif/index.html
+Name: Bariol Serif Font Anemone
+
+Package: us.anemone-fonts.BarioliOS7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.bariolios7_1.0_iphoneos-arm.deb
+Size: 3421024
+MD5sum: 8eb4a1afd78ce09cea504c6221dee0d0
+SHA1: d90748386028e662bb81e7fbe6b864b8b3db4043
+SHA256: 50118c9b5c2d551782d398a64f5163c4daa4c606ba48a1160bd2ab00a4da5df1
+Section: Fonts (iOS 7 Anemone)
+Description: Bariol (iOS 7) Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/BarioliOS7/index.html
+Name: Bariol (iOS 7) Font for Anemone
+
+Package: us.anemone-fonts.BarioliOS9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.bariolios9_1.0_iphoneos-arm.deb
+Size: 5221366
+MD5sum: b585ea06f29c53a2779291a46467d587
+SHA1: 9bd5cf4bffbae939c587b7c762e01732c2814d56
+SHA256: bacf1bb68fc29fc174ebc6d0e3c2b7bb5a7ae399b797f3184a22d5111aaa927a
+Section: Fonts (iOS 9 Anemone)
+Description: Bariol (iOS 9) for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/BarioliOS9/index.html
+Name: Bariol (iOS 9) for Anemone
+
+Package: us.anemone-fonts.BeatsByDre
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.beatsbydre_1.0_iphoneos-arm.deb
+Size: 4232906
+MD5sum: 28a7cd6d24700392bbbd5ece6a55d837
+SHA1: 6dcbdc646d31814b1217c8b204e7b9d241a3bd21
+SHA256: 7083279b480ced4695878b2932b2ce115c9445c03f327420c1e6ac192265b6a2
+Section: Fonts (iOS 9 Anemone)
+Description: Beats By Dre Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/BeatsByDre/index.html
+Name: Beats By Dre Font for Anemone
+
+Package: us.anemone-fonts.Billabong
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.billabong_1.0_iphoneos-arm.deb
+Size: 6109078
+MD5sum: 4b219e8b9a53cf9c3b0cb7ca07789be6
+SHA1: 91c57007fb51c2b0787f50594250b34eb54bb071
+SHA256: 051682aff4b143690ac12dc48085f103b6b039cbbf1f59c574caaa85f6863c6a
+Section: Fonts (iOS 9 Anemone)
+Description: Billabong Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Billabong/index.html
+Name: Billabong Font for Anemone
+
+Package: us.anemone-fonts.Blanch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.blanch_1.0_iphoneos-arm.deb
+Size: 4501952
+MD5sum: 5178fce25994179942981c977e6a8ed0
+SHA1: ff7909f7f686668d665e04ce3b8db49e4a1d86ed
+SHA256: 6624a479d4ba43952988ae5547160593d106de2cdc11f92a63f8715892116a1a
+Section: Fonts (iOS 9 Anemone)
+Description: Blanch Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Blanch/index.html
+Name: Blanch Font for Anemone
+
+Package: us.anemone-fonts.BubblegumSans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.bubblegumsans_1.0_iphoneos-arm.deb
+Size: 3106224
+MD5sum: 3fba7a135fdbd0216466b4ed2a512ad7
+SHA1: d7d097db32bfdf37e871236625d2e23643246c4a
+SHA256: 9dffa27e77e9e55a7207896fce23a2a41b1044faca2ba5919616788b992be076
+Section: Fonts (iOS 9 Anemone)
+Description: Bubblegum Sans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/BubblegumSans/index.html
+Name: Bubblegum Sans Font for Anemone
+
+Package: us.anemone-fonts.BurstMyBubble
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.burstmybubble_1.0_iphoneos-arm.deb
+Size: 3211432
+MD5sum: 5aa2ca946d4a7fd394b0e6c897ac2cc1
+SHA1: c7692cbfcc525db7049a7b9173d9267022282ea7
+SHA256: 633d48b3f92fc8ee08ccb506478b98cc87c75743726cbc886c41ea0f39d16624
+Section: Fonts (iOS 9 Anemone)
+Description: Burst My Bubble Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/BurstMyBubble/index.html
+Name: Burst My Bubble Font Anemone
+
+Package: us.anemone-fonts.Cabin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.cabin_1.0_iphoneos-arm.deb
+Size: 3147920
+MD5sum: ac12637d1cff19537255f5a193bba3d2
+SHA1: 047a0e5b304b67a0116960b4b3f98dc2f7628c6f
+SHA256: 8e187d6d728cc9a5992dde39801b430ce95e763cdf561a9008f1fd935ac0b08d
+Section: Fonts (iOS 9 Anemone)
+Description: Cabin Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Cabin/index.html
+Name: Cabin Font Anemone
+
+Package: us.anemone-fonts.Calibri
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.calibri_1.0_iphoneos-arm.deb
+Size: 7721468
+MD5sum: 13a9f1bf0964fb34aa8602dc0821b3a8
+SHA1: f5e4695dbacb0aef87775bba406ac694fd29599a
+SHA256: 2d262e4e4f38c93bfbd7fba675d387617e0050b3d487dd55b08e5a0236c97e99
+Section: Fonts (iOS 9 Anemone)
+Description: Calibri Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Calibri/index.html
+Name: Calibri Font for Anemone
+
+Package: us.anemone-fonts.CaviarDreams
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.caviardreams_1.0_iphoneos-arm.deb
+Size: 3160988
+MD5sum: 4848d65a43648beac7161cfbe05fa0c6
+SHA1: 96a6230e259060528f3823dfbb6931b178aeeab6
+SHA256: 3839fdd2165a33c31fc2ce210c91045799152f908492e97d3873a459a71e62a1
+Section: Fonts (iOS 9 Anemone)
+Description: Caviar Dreams Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/CaviarDreams/index.html
+Name: Caviar Dreams Font for Anemone
+
+Package: us.anemone-fonts.ChampagneAndLimousines
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.champagneandlimousines_1.0_iphoneos-arm.deb
+Size: 3177254
+MD5sum: de66c1b2586986b0aad5ccb66a87b0f6
+SHA1: f057c4668afa1cddf6a6724f2d4b6c9954676e1a
+SHA256: 887a2f4062b06e8355594b1d7ab15a9b428774ba38d5af20adad02aaa727fce0
+Section: Fonts (iOS 9 Anemone)
+Description: Champagne And Limousines Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/ChampagneAndLimousines/index.html
+Name: Champagne And Limousines Font for Anemone
+
+Package: us.anemone-fonts.Cicle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.cicle_1.0_iphoneos-arm.deb
+Size: 4279120
+MD5sum: 4725db128f17d64fb40d97e918fce0ae
+SHA1: beef534bb184d959adfb2d879d3e39014aeee436
+SHA256: 435a4b7cb78dda7b0b3bc7e6294269bdb2eaead8c4d7eb66376c6e8cf3f8dda0
+Section: Fonts (iOS 9 Anemone)
+Description: Cicle Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Cicle/index.html
+Name: Cicle Font for Anemone
+
+Package: us.anemone-fonts.Circular
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.circular_1.0_iphoneos-arm.deb
+Size: 4616700
+MD5sum: 56a387ea96eb364b40e11b80fcf50ee9
+SHA1: d6a75d4d9239622568752953697453de9c7769d6
+SHA256: 0f906ff00f86bea24ac2b46d98dfe0d062b8aeb0813578c7ce166b09da318e11
+Section: Fonts (iOS 9 Anemone)
+Description: Circular Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Circular/index.html
+Name: Circular Font for Anemone
+
+Package: us.anemone-fonts.ClearSans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.clearsans_1.0_iphoneos-arm.deb
+Size: 2877998
+MD5sum: ce4dbd8eeba5afc097dd538bd2dd0a28
+SHA1: 2fcc2bfbf936ee6632f83a1249d9cfad4fa07c70
+SHA256: 33c32b2c8af51e7e2745446e25e4e006b075e787301c75c54ec77a09dd18093e
+Section: Fonts (iOS 9 Anemone)
+Description: Clear Sans Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/ClearSans/index.html
+Name: Clear Sans Font Anemone
+
+Package: us.anemone-fonts.Comfortaa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.comfortaa_1.0_iphoneos-arm.deb
+Size: 3123992
+MD5sum: 0454b53c6ca5326498ec910388df77a2
+SHA1: 61c3a5c1af85a0961184b8cb3d59d67dd1bb3bda
+SHA256: 0ffed3848c8474b43b4c6fe5860d177fc2eb9fde0ce6f3a6dc31b8a4fbf0cce7
+Section: Fonts (iOS 9 Anemone)
+Description: Comfortaa Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Comfortaa/index.html
+Name: Comfortaa Font Anemone
+
+Package: us.anemone-fonts.CorporativeSansRounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.corporativesansrounded_1.0_iphoneos-arm.deb
+Size: 4411272
+MD5sum: eadadf95e3c082910f14bd4ece68321e
+SHA1: 2a05de7f3077cc1a54bcb9e80d654177d46eeca3
+SHA256: 6d8be77a5fe8c58be4e128c0401ff78c1ddc1b87c186f50d30a5af08a786111b
+Section: Fonts (iOS 9 Anemone)
+Description: Corporative Sans Rounded Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/CorporativeSansRounded/index.html
+Name: Corporative Sans Rounded Font for Anemone
+
+Package: us.anemone-fonts.DinDisplayPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.dindisplaypro_1.0_iphoneos-arm.deb
+Size: 4410360
+MD5sum: 3181ff6d0bfa212597aa7075c6152ed1
+SHA1: 25712610d836785c77851f62c888eddf8ba440c7
+SHA256: 8c418993260aae4783cf360829ce8ce58b8cfb0dab77bf438f9d04111a2b72ab
+Section: Fonts (iOS 9 Anemone)
+Description: Din Display Pro Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/DinDisplayPro/index.html
+Name: Din Display Pro Font for Anemone
+
+Package: us.anemone-fonts.DroidSans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.droidsans_1.0_iphoneos-arm.deb
+Size: 2986624
+MD5sum: c547fd7084c80175bed871f0f1a86dd9
+SHA1: 152e4a3ce2d158ab97aad6b3c83e112e2e56f200
+SHA256: d7a52bc5373a4662c3d4de0e64227bc94f16c379f4b09ef83b2967e947977f13
+Section: Fonts (iOS 9 Anemone)
+Description: Droid Sans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/DroidSans/index.html
+Name: Droid Sans Font for Anemone
+
+Package: us.anemone-fonts.EmojiFlat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.emojiflat_1.0_iphoneos-arm.deb
+Size: 37941334
+MD5sum: 268ec22eb3707801bcb5f68750389926
+SHA1: e91481a7a0e0c15ccc4e49f156621fba6a5cbf49
+SHA256: de6fcc1554fd07d8bc7e944c6c7996742bf5dd052ec9157df185fc680e6e3135
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Description: Emoji Flat for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/EmojiFlat/index.html
+Name: Emoji Flat for Anemone
+
+Package: us.anemone-fonts.EmojiOne2016
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.emojione2016_1.0_iphoneos-arm.deb
+Size: 61058844
+MD5sum: 3bbaf4faad337f203790fcafedebdb7c
+SHA1: 6ed5d694be1b90d51ee5842a621ef0e5d4e3560b
+SHA256: a6d29d9e47c1e9767b7202ae8a2a96eb702d76d5039adc7728e588ebd5f70344
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Description: Emoji One 2016 for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/EmojiOne2016/index.html
+Name: Emoji One 2016 for Anemone
+
+Package: us.anemone-fonts.EncoreSansPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.encoresanspro_1.0_iphoneos-arm.deb
+Size: 4295828
+MD5sum: a5b351ac8e850d0b8d3b8f82df9c9c3d
+SHA1: 8b9ffa61244188823fc1dddbea658b98fec3523a
+SHA256: 6eea39d4a3391409cee43b358db21d230b8b366c019be510ad399cb7916ca178
+Section: Fonts (iOS 9 Anemone)
+Description: Encore Sans Pro Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/EncoreSansPro/index.html
+Name: Encore Sans Pro Font Anemone
+
+Package: us.anemone-fonts.ExampleAnemoneFont
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.exampleanemonefont_1.0_iphoneos-arm.deb
+Size: 1024
+MD5sum: ae8d9280948ec2def566d73eaa845010
+SHA1: e4ac31198df5e4fd38f5f14e05607b0f14dfe085
+SHA256: ef0920e3d8fa1f49923f7ad607b8f0c02cae6e9649b1b3de77dacceba6dc8adf
+Section: Fonts (iOS X.x Anemone)
+Description: This is an Example Anemone Font package
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Example_Depiction/index.html
+Name: Example Anemone Font
+
+Package: us.anemone-fonts.Exo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.exo_1.0_iphoneos-arm.deb
+Size: 3090554
+MD5sum: f892f73c8cc2db23b8001df8ab9998c8
+SHA1: 0ab087a123ba1b8a9220f6c5b6d5033e1d7ee059
+SHA256: 455816c4a26327c1aed78a33844c787cf0881791ceb43edd1b8aecb44d368fcc
+Section: Fonts (iOS 9 Anemone)
+Description: Exo Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Exo/index.html
+Name: Exo Font for Anemone
+
+Package: us.anemone-fonts.FuturamaBold
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.futuramabold_1.0_iphoneos-arm.deb
+Size: 3037160
+MD5sum: 9966e82782ddc9f90e08264d68ca8109
+SHA1: d5a9af20b7ab6ebc4d32a403a26c3b4f5defaad3
+SHA256: 3d899593434ef42218f3b3f9518712565b37f864be40d88aa9dc58d81393f629
+Section: Fonts (iOS 9 Anemone)
+Description: Futurama Bold Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/FuturamaBold/index.html
+Name: Futurama Bold Font Anemone
+
+Package: us.anemone-fonts.GeoSansLight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.geosanslight_1.0_iphoneos-arm.deb
+Size: 3120570
+MD5sum: a9406c8f7c3f77d29987a2a500bb456d
+SHA1: 9a37f5884dc9fd49d98db604e9122b7471a829b8
+SHA256: f511ad471042c18892dfe9f39a0fa042465b86ffb099af798311f211539de4a8
+Section: Fonts (iOS 9 Anemone)
+Description: Geo Sans Light Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/GeoSansLight/index.html
+Name: Geo Sans Light Font for Anemone
+
+Package: us.anemone-fonts.Geomanist
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.geomanist_1.0_iphoneos-arm.deb
+Size: 4164406
+MD5sum: 19467ce6830dbd75182c093aad57e73c
+SHA1: 10d820c07c54e74dd3b42d9c5d0118a4f248fb8e
+SHA256: c7f254c89ff15af447ccf51e077d60122635a3a934a840ed6cd5d2e6fe33c934
+Section: Fonts (iOS 9 Anemone)
+Description: Geomanist Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Geomanist/index.html
+Name: Geomanist Font Anemone
+
+Package: us.anemone-fonts.GothamNarrow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.gothamnarrow_1.0_iphoneos-arm.deb
+Size: 4302092
+MD5sum: eefec5207352dd965f378ca614caccdd
+SHA1: 13eb3ede9ec7c8cfacd72258fcab5922937c01cd
+SHA256: 0392fc898aee394e15b2cd8b6061fa09ead12a06aa2a65b63cf0b15952729a56
+Section: Fonts (iOS 9 Anemone)
+Description: Gotham Narrow Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/GothamNarrow/index.html
+Name: Gotham Narrow Font Anemone
+
+Package: us.anemone-fonts.Gunnii8Font
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1), Gunnii-8
+Filename: ./deb/us.anemone-fonts.gunnii8font_1.0_iphoneos-arm.deb
+Size: 4596616
+MD5sum: 98debcf201d14a00384a3818d1880e82
+SHA1: 743701ce85c9d1e371be654235e0b2aab213b16b
+SHA256: 391c97f915824b97164644067465cd2493b8f8753b21cdd4c440965ab3276888
+Section: Fonts (iOS 9 Anemone)
+Description: Gunnii-8 Font For Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/GunniiFont/index.html
+Name: Gunnii-8 Font For Anemone
+
+Package: us.anemone-fonts.HattoriHanzo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.hattorihanzo_1.0_iphoneos-arm.deb
+Size: 3141584
+MD5sum: f07f16a2cc823296288c8d8b5be3577e
+SHA1: 77a923fe3f6542d81d60cac8f2f1d9ee1b242058
+SHA256: dc2554444e5c670b5c3f1f1ff84ebeddced78ded4dcb38aef6d3b335d31725c3
+Section: Fonts (iOS 9 Anemone)
+Description: Hattori Hanzo Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/HattoriHanzo/index.html
+Name: Hattori Hanzo Font for Anemone
+
+Package: us.anemone-fonts.HelveticaNeue
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.helveticaneue_1.0_iphoneos-arm.deb
+Size: 4732864
+MD5sum: 92cf72139cdf67d65e55a0ce5653ca4d
+SHA1: 7949f01d0c78f01e224fc9c81e8bd722d01320c8
+SHA256: dfd79e771f1534603f0214f9ef52c48b9cf587ff1646078baf76604e724bfadf
+Section: Fonts (iOS 9 Anemone)
+Description: Helvetica Neue Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/HelveticaNeue/index.html
+Name: Helvetica Neue Font for Anemone
+
+Package: us.anemone-fonts.Iskra
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.iskra_1.0_iphoneos-arm.deb
+Size: 4340246
+MD5sum: 780e6ed7947f2fa0ca10a332875b80ef
+SHA1: fed8c691bc28f3b8d92ee8bf773bf7a89f9ad926
+SHA256: ecd8e10319a7734d4b59e80bea861861ccc2d90649c5dc07778340c1010355ff
+Section: Fonts (iOS 9 Anemone)
+Description: Iskra Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Iskra/index.html
+Name: Iskra Font Anemone
+
+Package: us.anemone-fonts.JohnSansPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.johnsanspro_1.0_iphoneos-arm.deb
+Size: 4458588
+MD5sum: 9e57dfa9c8e191fb230c0efc523a7f18
+SHA1: 587b369b77a5c329fb8e94f2137dda5973b31373
+SHA256: cc6a8e1e4531b227fead6e401b9372dc653cdcbfdd7fcec485776071bde71d88
+Section: Fonts (iOS 9 Anemone)
+Description: John Sans Pro Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/JohnSansPro/index.html
+Name: John Sans Pro Font Anemone
+
+Package: us.anemone-fonts.KomikaDisplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.komikadisplay_1.0_iphoneos-arm.deb
+Size: 3334050
+MD5sum: a3e179781b38e1323559673c4bc36ad5
+SHA1: 8004042d7024474ac61444c3a7e187d78cbe9b59
+SHA256: 6ae82f2ae37143a2960ca68e617b8bad9bb6cc25768dac02672bca114959d405
+Section: Fonts (iOS 9 Anemone)
+Description: Komika Display Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/KomikaDisplay/index.html
+Name: Komika Display Font Anemone
+
+Package: us.anemone-fonts.Lato
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.lato_1.0_iphoneos-arm.deb
+Size: 3112678
+MD5sum: 9b21a15d9fdbe03eaedd6d252ed4a1d0
+SHA1: 943febe8f483c4727cc922ba04d1bb16eb790467
+SHA256: 68bac2b5e389680b01ae1c344e9fb5e5d3b4e1c58a74bf650996f413e4fe5bd2
+Section: Fonts (iOS 9 Anemone)
+Description: Lato Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Lato/index.html
+Name: Lato Font Anemone
+
+Package: us.anemone-fonts.LatoLight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.latolight_1.0_iphoneos-arm.deb
+Size: 3032522
+MD5sum: c3a82dd8c50f04b559d29039341a4fd6
+SHA1: 870ec230235c4dc6a5aeacedfef8413790f44aed
+SHA256: 9f94cee0a4cf261475bd6bd308c5e57e8524d3c6a103d3c5e5a552ab464fc414
+Section: Fonts (iOS 9 Anemone)
+Description: Lato Light Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/LatoLight/index.html
+Name: Lato Light Font for Anemone
+
+Package: us.anemone-fonts.LobsterTwo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.lobstertwo_1.0_iphoneos-arm.deb
+Size: 3231996
+MD5sum: 96af85e9f1bfbf94a03231e5ed455dc6
+SHA1: 85a35785ce57040afe6ee0a370d651c366bc3e1a
+SHA256: e696b945bbf007a6046ca7553fce22ef1387b82a1610c59883a497021365a635
+Section: Fonts (iOS 9 Anemone)
+Description: Lobster Two Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/LobsterTwo/index.html
+Name: Lobster Two Font for Anemone
+
+Package: us.anemone-fonts.LoveIsComplicatedAgain
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.loveiscomplicatedagain_1.0_iphoneos-arm.deb
+Size: 3401556
+MD5sum: cfbe87ca2c90c94a7f884950bb8363aa
+SHA1: ba77c84b9b7a357fb720faa2e2a11e70be442ba3
+SHA256: 54f106cda43c3c7fa94c71842e5529fe4473f6a4c342275b8783153a456ce95f
+Section: Fonts (iOS 9 Anemone)
+Description: Love Is Complicated Again font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/LoveIsComplicatedAgain/index.html
+Name: Love Is Complicated Again font for Anemone
+
+Package: us.anemone-fonts.MetroNovaPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.metronovapro_1.0_iphoneos-arm.deb
+Size: 3656130
+MD5sum: cf5dde8b6f6014d10cc4ec43be7663fb
+SHA1: 3e3c3984ba17909a5901f8ad4ed891d9f8f63cbe
+SHA256: 00454ecd66501f1155347bf942fac635d55f9a5f03b4675d731aeba490984b03
+Section: Fonts (iOS 9 Anemone)
+Description: Metro Nova Pro Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/MetroNovaPro/index.html
+Name: Metro Nova Pro Font Anemone
+
+Package: us.anemone-fonts.MuseoSansRounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.museosansrounded_1.0_iphoneos-arm.deb
+Size: 5441848
+MD5sum: 93d55400bd3c40dc9d6a34fd6004cbcd
+SHA1: 70c2c639a4b3d58222df662eb52b53f4957b6896
+SHA256: a1469a6fea19bbb1bbbe486e624b2039e501b1a7527c1a3c07e2f770b44dacbd
+Section: Fonts (iOS 9 Anemone)
+Description: Museo Sans Rounded Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/MuseoSansRounded/index.html
+Name: Museo Sans Rounded Font Anemone
+
+Package: us.anemone-fonts.MyriadSetPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.myriadsetpro_1.0_iphoneos-arm.deb
+Size: 4706736
+MD5sum: a8d99da87c3e0fc7f0e8405a3f85bb7d
+SHA1: d7c3609836453c8159ec67082265e4a3649bba42
+SHA256: 7a00eee058b8af55a10513e3027123c4c2cb3e03e35c2519f0c53f846bc180a8
+Section: Fonts (iOS 9 Anemone)
+Description: Myriad Set Pro Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/MyriadSetPro/index.html
+Name: Myriad Set Pro Font for Anemone
+
+Package: us.anemone-fonts.NeoTech
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.neotech_1.0_iphoneos-arm.deb
+Size: 5478316
+MD5sum: c8379d79a0ee305d3b90123251aa2f37
+SHA1: 0a6b0b457294429e019862d8497439218bfcc741
+SHA256: 907a63e756a100cd506c20425175fd6bf5a7bd7d75280e61ae0f3ccc837efdde
+Section: Fonts (iOS 9 Anemone)
+Description: Neo Tech Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/NeoTech/index.html
+Name: Neo Tech Font for Anemone
+
+Package: us.anemone-fonts.Neuropol
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.neuropol_1.0_iphoneos-arm.deb
+Size: 3336308
+MD5sum: 2c2d24bf2fd2c060c4d068ecd308f05f
+SHA1: 7b2dcd4978a9f23bd6742a3268024ed83dd1fa50
+SHA256: db810d1315940f522f516897c8ebfd0292c853facf1fe2f9db3277fc8d59a109
+Section: Fonts (iOS 9 Anemone)
+Description: Neuropol Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Neuropol/index.html
+Name: Neuropol Font for Anemone
+
+Package: us.anemone-fonts.Neutraface
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.neutraface_1.0_iphoneos-arm.deb
+Size: 5013222
+MD5sum: d0e111daafb6768371575eacb56f9b6e
+SHA1: 18294ba02f1aed120ebec984c86cf084e3a447cd
+SHA256: 00e6d73643a882b443cf225313b2250ed954757e3e9ad073b2b06b446df2b5a7
+Section: Fonts (iOS 9 Anemone)
+Description: Neutraface Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Neutraface/index.html
+Name: Neutraface Font Anemone
+
+Package: us.anemone-fonts.NovelSansRounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.novelsansrounded_1.0_iphoneos-arm.deb
+Size: 3739996
+MD5sum: a82f5944b52e8cd62c82daebee835267
+SHA1: 62ee95ed3f471ff44db7b1000b41edd699c30700
+SHA256: 608084a7c745d59ddcd88b5eff8b4add65ac3cc1cdf1ebedf5e9e06adc040532
+Section: Fonts (iOS 9 Anemone)
+Description: Novel Sans Rounded Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/NovelSansRounded/index.html
+Name: Novel Sans Rounded Font for Anemone
+
+Package: us.anemone-fonts.OldeEnglishiOS8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.oldeenglishios8_1.0_iphoneos-arm.deb
+Size: 3072350
+MD5sum: 349cbd5003f86f09249e25b5df2d658f
+SHA1: 1f34795d3b8804ae383b7a0feeac338ee2271f04
+SHA256: a97dd8aa10fcd54e1eb5f97f2b2d09ba86ce7a3e9383199ad704af0e5040997c
+Section: Fonts (iOS 8 Anemone)
+Description: Olde English (iOS 8) Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/OldeEnglishiOS8/index.html
+Name: Olde English (iOS 8) Font for Anemone
+
+Package: us.anemone-fonts.OldeEnglishiOS9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.oldeenglishios9_1.0_iphoneos-arm.deb
+Size: 3082998
+MD5sum: 41bb3ed7c8e571b6a9b716d7f1d72e5c
+SHA1: cac5129cb0b3f3ec38b51f3f3df13a417eb24020
+SHA256: 819377d00768f9316cc016deab2be7183220d44b143949326d89c270fe920aae
+Section: Fonts (iOS 9 Anemone)
+Description: Olde English (iOS 9) Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/OldeEnglishiOS9/index.html
+Name: Olde English (iOS 9) Font for Anemone
+
+Package: us.anemone-fonts.OpenSans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.opensans_1.0_iphoneos-arm.deb
+Size: 2895570
+MD5sum: c972a89d808e4b7befca6f4369ce7b75
+SHA1: 1422fabaca8a9c507665d059c8704686bf9392b0
+SHA256: 71216829c6eec4c33df6f6468e9af998dc103a1af0e73908dd14c596cb300262
+Section: Fonts (iOS 9 Anemone)
+Description: Open Sans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/OpenSans/index.html
+Name: Open Sans Font for Anemone
+
+Package: us.anemone-fonts.Oswald
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.oswald_1.0_iphoneos-arm.deb
+Size: 3146610
+MD5sum: 2aa63d6c371deacd97843ff4b3cba6d4
+SHA1: d67b95c6e4e99e55d1263f085b8a790e4e248f5f
+SHA256: 4bf593297027bcd0abf5d829ba5ec6f86be0c8e0aa2b5eace0bf8e3d5dac0a02
+Section: Fonts (iOS 9 Anemone)
+Description: Oswald Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Oswald/index.html
+Name: Oswald Font Anemone
+
+Package: us.anemone-fonts.Oxygen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.oxygen_1.0_iphoneos-arm.deb
+Size: 3139058
+MD5sum: 8164864b733347430801bde38b68e17b
+SHA1: 24bdabe3cfc617a2174e10d24e8a0a6111509376
+SHA256: 052a9c3de57ee7e6ccf1c4024cde91e6c4972c7e2ccd6a820e46e254bb9896e5
+Section: Fonts (iOS 9 Anemone)
+Description: Oxygen Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Oxygen/index.html
+Name: Oxygen Font for Anemone
+
+Package: us.anemone-fonts.Pacifico
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.pacifico_1.0_iphoneos-arm.deb
+Size: 3034570
+MD5sum: cbf468dd370074e6039094dbf2cd3cf3
+SHA1: 6e3d452cc3c9ca88ff553eabfbb5d52cc6bf6045
+SHA256: bc8591c3c68e35fd469d07c2e2bdfc99c92f34fabb3bd83326fa6e3aa2fabe7a
+Section: Fonts (iOS 9 Anemone)
+Description: Pacifico Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Pacifico/index.html
+Name: Pacifico Font Anemone
+
+Package: us.anemone-fonts.ProductSans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.productsans_1.0_iphoneos-arm.deb
+Size: 4230220
+MD5sum: e01a826118d69cb7a7634450b8e62179
+SHA1: 6ef47ebec5c0efbb990c6867a8c8468bdd05771b
+SHA256: 8ae843ff35868b534a96bfe803f0e51389d20652d35df4af4342824a7ab17db3
+Section: Fonts (iOS 9 Anemone)
+Description: Product Sans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/ProductSans/index.html
+Name: Product Sans Font for Anemone
+
+Package: us.anemone-fonts.ProximaNova
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.proximanova_1.0_iphoneos-arm.deb
+Size: 4203706
+MD5sum: df10dace924c952561d2d66efa21382b
+SHA1: 17bdf32b98904f052365ddda2ff37c7e74679654
+SHA256: ca2012a22314f78e72c8bda53d0febcb6504596449cc667ea0dd05578a4029fc
+Section: Fonts (iOS 9 Anemone)
+Description: Proxima Nova Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/ProximNova/index.html
+Name: Proxima Nova Font for Anemone
+
+Package: us.anemone-fonts.QarmicSans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.qarmicsans_1.0_iphoneos-arm.deb
+Size: 3237022
+MD5sum: 99d59e74c9259b46426653a7fb4b26ac
+SHA1: a867281ac40490f3302e3c847dc86bc3da5ae567
+SHA256: 39fe59a97d40a35d864602402c6ea76777fa293fe59c8eb005d8b48dcc4c0556
+Section: Fonts (iOS 9 Anemone)
+Description: Qarmic Sans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/QarmicSans/index.html
+Name: Qarmic Sans Font for Anemone
+
+Package: us.anemone-fonts.Roboto
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.roboto_1.0_iphoneos-arm.deb
+Size: 2912942
+MD5sum: 065d89786e0c84b703bc738ac4de5897
+SHA1: 9e47a1b14e41cca53da955be85a953e9a99ac4d3
+SHA256: 3723c296ac07990b930277a1e4287b98176946c80349d5e27583638dd59359b9
+Section: Fonts (iOS 9 Anemone)
+Description: Roboto Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Roboto/index.html
+Name: Roboto Font for Anemone
+
+Package: us.anemone-fonts.RobotoCondensedLight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.robotocondensedlight_1.0_iphoneos-arm.deb
+Size: 4471740
+MD5sum: 5a7bd555a2d94a19754c4fb8c343f581
+SHA1: 5e2d7a289db36a39bb58dec9a2165c7a7e4d48f7
+SHA256: cadf66a5db2556e62125ce1c56ea46f26cdca1ec229dec6271f135c139291cb2
+Section: Fonts (iOS 9 Anemone)
+Description: Roboto Condensed Light Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/RobotoCondensedLight/index.html
+Name: Roboto Condensed Light Font for Anemone
+
+Package: us.anemone-fonts.RobotoSlab
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.robotoslab_1.0_iphoneos-arm.deb
+Size: 2893924
+MD5sum: 61460cb1cd8c53b4e77bfb0dc5ba77a6
+SHA1: 947f52049196afd282914c71aeb4937839fc56c5
+SHA256: c3a5ae89da2a741113b8326d46f248b61bec15e42db201e37a30c39fe1a8d256
+Section: Fonts (iOS 9 Anemone)
+Description: Roboto Slab Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/RobotoSlab/index.html
+Name: Roboto Slab Font for Anemone
+
+Package: us.anemone-fonts.SanFranciscoRounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.sanfranciscorounded_1.0_iphoneos-arm.deb
+Size: 5501644
+MD5sum: bb7c7d1971dfb36b88aac4ccf93f1dda
+SHA1: dc286b342fb8e231b5131a2ae7cbe72e6a9ca56f
+SHA256: 7d45a63eac97ee67502d8ba5c2f231b95623a723b98d69c6fad4f506433951a8
+Section: Fonts (iOS 9 Anemone)
+Description: San Francisco Rounded Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/SanFranciscoRounded/index.html
+Name: San Francisco Rounded Font for Anemone
+
+Package: us.anemone-fonts.SanFranciscoRoundedLight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.sanfranciscoroundedlight_1.0_iphoneos-arm.deb
+Size: 6121110
+MD5sum: 80aaf6a687bea73f9763edf8c49046a7
+SHA1: 12227e759908827ed14f400016d2fb31fceb2439
+SHA256: 72b48eaddbcadc6e050f190c61db5c4b603258880d20d0a610feeca8c1d74616
+Section: Fonts (iOS 9 Anemone)
+Description: San Francisco Rounded Light Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/SanFranciscoRoundedLight/index.html
+Name: San Francisco Rounded Light Font Anemone
+
+Package: us.anemone-fonts.SegoeUI
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.segoeui_1.0_iphoneos-arm.deb
+Size: 4230148
+MD5sum: a43029115dde0d15f01ec36fb301400b
+SHA1: f637ab38293c87686986f4eb05db17a246022a68
+SHA256: 0de05e73d553f088dd59b53594216ffb29c6b18e0e03dd9afbd0ee6d454778ce
+Section: Fonts (iOS 9 Anemone)
+Description: Segoe UI Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/SegoeUI/index.html
+Name: Segoe UI Font for Anemone
+
+Package: us.anemone-fonts.Solido
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.solido_1.0_iphoneos-arm.deb
+Size: 4421662
+MD5sum: f13dc26beb8e95a246292ccd56778962
+SHA1: ede673640e9c0d4afed0408f3ff13237b5085104
+SHA256: b216677fc45935f52ec218e827f9fec5b9691453cf9e03c56a6ba2f8114c4a6f
+Section: Fonts (iOS 9 Anemone)
+Description: Solido Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Solido/index.html
+Name: Solido Font for Anemone
+
+Package: us.anemone-fonts.SonySketchEF
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.sonysketchef_1.0_iphoneos-arm.deb
+Size: 3195868
+MD5sum: c7bc827b901f787885d4d100ea45f732
+SHA1: a8dcfff33183bcdec992c5aa80d4b3a7d63abddf
+SHA256: 652e0323f94af9b657d1de9dc75223b0858b1eb6a92f92d97d7d33a87263b7a4
+Section: Fonts (iOS 9 Anemone)
+Description: Sony Sketch EF Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/SonySketchEF/index.html
+Name: Sony Sketch EF Font Anemone
+
+Package: us.anemone-fonts.TF2SecondaryiOS7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.tf2secondaryios7_1.0_iphoneos-arm.deb
+Size: 3408076
+MD5sum: 0e81f4bc81cfcf80ee1f40ee546ae183
+SHA1: 873748b180b10b21da1f7537d0b550f0b797168e
+SHA256: 2453d78d5fb361d1afb6abe24957171f5b8370ff8124fb5adb09fc648fd348d4
+Section: Fonts (iOS 7 Anemone)
+Description: TF2 Secondary (iOS 7) Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/TF2SecondaryiOS7/index.html
+Name: TF2 Secondary (iOS 7) Font for Anemone
+
+Package: us.anemone-fonts.Tabitha
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.tabitha_1.0_iphoneos-arm.deb
+Size: 3117726
+MD5sum: 663419c8a2a4df815d6f7d1d0e7ef4b8
+SHA1: 3e8235e56a99546739e6b4c1868ffe0e981b374d
+SHA256: 7153f3ebeb9661874a380fa10febdd0cb255769f3027016bbd754407b860c305
+Section: Fonts (iOS 9 Anemone)
+Description: Tabitha Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Tabitha/index.html
+Name: Tabitha Font for Anemone
+
+Package: us.anemone-fonts.TitilliumWeb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.titilliumweb_1.0_iphoneos-arm.deb
+Size: 3155218
+MD5sum: 6bba16c016bd2e73935d23d1aaa12029
+SHA1: e6a57d4d8855fa65b6a8e7d7128b9d27c188b33f
+SHA256: 8be9ff2c6f57f41d91f07cd69ad853b6c90a5c19bdfb56c16632c1fa15459d0f
+Section: Fonts (iOS 9 Anemone)
+Description: Titillium Web Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/TitilliumWeb/index.html
+Name: Titillium Web Font Anemone
+
+Package: us.anemone-fonts.TwitterEmojiiOS9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.twitteremojiios9_1.0_iphoneos-arm.deb
+Size: 30686516
+MD5sum: c1e570eedec6ecd79cc3d894736d7cb4
+SHA1: c2f58316bd4e3070a4ce4cafceb798495cb9c4a7
+SHA256: de997b1bff4f068d57331d4f82efed756e0cf6ebc376e1f0572fcf8ed31989ae
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Description: Twitter Emoji for iOS 9
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/TwitterEmojiiOS9/index.html
+Name: Twitter Emoji for iOS 9
+
+Package: us.anemone-fonts.Ubuntu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.ubuntu_1.0_iphoneos-arm.deb
+Size: 2950606
+MD5sum: 05a27883b529d5908cce8e65dcc183f2
+SHA1: 5f992dbab1064f9e6cd5e6c9a82afff410ada7be
+SHA256: 1dd201c956f95997b18be4dedc5cfe9d79faa72953602a698ade299a9335a4af
+Section: Fonts (iOS 9 Anemone)
+Description: Ubuntu Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/Ubuntu/index.html
+Name: Ubuntu Font for Anemone
+
+Package: us.anemone-fonts.UbuntuLight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.ubuntulight_1.0_iphoneos-arm.deb
+Size: 3045778
+MD5sum: 1ee8fd94c1e3b501b65d194564712e80
+SHA1: 10316d665e42a8777fae008e14e76b1cd6ac04d0
+SHA256: 5107ed25f85d5bb88a0d0b453da8147ad0a37bfc37c81e4725cefeb78b5dbeea
+Section: Fonts (iOS 9 Anemone)
+Description: Ubuntu Light Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/UbuntuLight/index.html
+Name: Ubuntu Light Font for Anemone
+
+Package: us.anemone-fonts.VagRounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.vagrounded_1.0_iphoneos-arm.deb
+Size: 5330836
+MD5sum: aca45a75acb140951e7f99587979459e
+SHA1: b8bb2dcbaa58927b418408db53d4f05d613583e2
+SHA256: c603a223d503739f1200d9ebfa79cf095435a9caf8eb774f8dfe3a7917473ac4
+Section: Fonts (iOS 9 Anemone)
+Description: Vag Rounded Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/VagRounded/index.html
+Name: Vag Rounded Font for Anemone
+
+Package: us.anemone-fonts.VarelaRound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.anemone-fonts.varelaround_1.0_iphoneos-arm.deb
+Size: 3552444
+MD5sum: d66d2f08c3a06002aa402c82386f3ed4
+SHA1: 4aaf8bf7334715abc204c96f772282d18a2bfbbb
+SHA256: 8fc207bd3506a50f3148d38c7ae263229c4f473f609bd466bbd39352e3e57b47
+Section: Fonts (iOS 9 Anemone)
+Description: Varela Round Font Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.us/dep/VarelaRound/index.html
+Name: Varela Round Font Anemone
+
+Package: us.mwoolweaver.Baumans
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Filename: ./deb/us.mwoolweaver.baumans_1.1_iphoneos-arm.deb
+Size: 3178766
+MD5sum: ddb087e6fcdd202332c5f94d520468a6
+SHA1: 2c6662dce378cec85f26b564818e51e293745e9c
+SHA256: 1f299eeaf92276a9cd809f2948fbe4efd5532d86bf15a812958957d68a8bca3c
+Section: Fonts (iOS 9 Anemone)
+Description: Baumans Font for Anemone
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://mwoolweaver.us/Anemone-Fonts/dep/Baumans/index.html
+Name: Baumans Font for Anemone
+
