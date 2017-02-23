@@ -1,0 +1,8 @@
+Origin: Anemone Fonts
+Label: Anemone-Fonts
+Suite: stable
+Version: 2.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Anemone Fonts
