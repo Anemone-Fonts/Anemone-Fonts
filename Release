@@ -1,11 +1,11 @@
-Origin: Anemone Fonts
-Label: Anemone Fonts
+Origin: Anemone Fonts ⌐■_■
+Label: Anemone Fonts ⌐■_■
 Suite: stable
-Version: 2.0
-Codename: ios
+Version: 4.2.0
+Codename: ⌐■_■
 Architectures: iphoneos-arm
 Components: main
-Description: Anemone Fonts
+Description: A Cydia Repo For Anemone Fonts
 MD5sum:
  8a2fa57db257cddb49bdbf528bef4f88 49097 Packages
  c2d2be336bc7024acdc4de6f56109aa7 8925 Packages.bz2
