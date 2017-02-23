@@ -6,15 +6,7 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Anemone Fonts
-MD5sum:
- 8a2fa57db257cddb49bdbf528bef4f88 49097 Packages
- c2d2be336bc7024acdc4de6f56109aa7 08925 Packages.bz2
- 28cd6916356a355caa0d5b6abc477253 10265 Packages.gz
-SHA1:
- ed59e1f31bbd5edf99ba8aa135c483981c811f94 49097 Packages
- 085a881f7c4aaacbb5cfe951e3026a1958b0e31d 08925 Packages.bz2
- 27bf778e4965e09f11d8eef01df7ed3be326c54f 10265 Packages.gz
 SHA256:
  b419023c6aebd02f1941cb6b7bdc958dda1c3a24be69715b141ae33ebe0e8990 49097 Packages
- 48145f88748d7c46980696e3f60f2864bbca358b026d4e705fef1c265ebf3826 08925 Packages.bz2
+ 48145f88748d7c46980696e3f60f2864bbca358b026d4e705fef1c265ebf3826 8925 Packages.bz2
  654fa5cfa847fcc72953c6088916a532966b0d8a54b03011b03046e447408ca0 10265 Packages.gz
