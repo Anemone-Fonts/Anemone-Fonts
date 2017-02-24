@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+    <script type="text/javascript" src="https://wurfl.io/wurfl.js"></script>
     <script type="text/javascript">
       <!--
-        if (typeof window.orientation == 'undefined') {
+        if (WURFL.is_mobile === false || WURFL.is_ios === false) {
           document.location = "./desktop.html";
         }
       //-->
