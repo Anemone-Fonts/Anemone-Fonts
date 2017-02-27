@@ -1,4 +1,4 @@
-# Anemone-fonts
+# Anemone-Fonts
 
 # [anemone-fonts.us](https://anemone-fonts.us/)
 
