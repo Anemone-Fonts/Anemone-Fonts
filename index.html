@@ -3,8 +3,8 @@
     <head>
        <script type="text/javascript" src="https://wurfl.io/wurfl.js"></script>
        <script type="text/javascript">
-            <!-- check for desktop deal accordingly -->
-            if (WURFL.is_mobile == false || WURFL.is_ios == false) {
+            <!-- check for desktop and deal accordingly -->
+            if (WURFL.is_mobile != true && WURFL.is_ios != true) {
             document.location = "./desktop.html";
             }
             else {
@@ -12,5 +12,4 @@
             }
         </script>
     </head>
-</html>        
-
+</html>
