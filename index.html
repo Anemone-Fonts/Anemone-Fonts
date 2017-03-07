@@ -5,11 +5,14 @@
     </head>
     <body>
       <script type="text/javascript">
-           if (WURFL.is_ios === false ||  WURFL.is_mobile === false){
+           if (WURFL.is_android === true ||  WURFL.is_mobile === false){
            document.location = "./desktop.html";
            }
-           else {
+           else if (wurfl.is_ios === ture) {
                document.location = "./cydia.html";
+           }
+           else {
+             document.location = "./hello.html";
            }
      </script>
 
