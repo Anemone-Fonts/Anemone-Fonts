@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-       <script type="text/javascript" src="https://wurfl.io/wurfl.js"></script>
+       <script type="text/javascript" src="./js/detection.js"></script>
     </head>
     <body>
       <script type="text/javascript">
-          var iOS = /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
-
-           if (iOS == true) {
-             document.location = "./desktop.html";
+           if (this.isIOS == true) {
+             document.location = "./cydia.html";
            }
            else {
-             document.location = "./cydia.html";
+             document.location = "./desktop.html";
            }
      </script>
 
