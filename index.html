@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-       <script src="https://gist.github.com/gdibble/df3fd4016e632344336f3227a6f159e6.js">
-       if (this.isIOS == true) {
-         document.location = "./cydia.html";
+       <script type="text/javascript" src="./js/device.js">
+       if (device.ios() == true) {
+         document.location = "./desktop.html";
        }
        else {
-         document.location = "./desktop.html";
+         document.location = "./cydia.html";
        }
        </script>
     </head>
     <body>
+
 
     </body>
 </html>
