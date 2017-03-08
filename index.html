@@ -3,7 +3,7 @@
     <head>
       <script type="text/javascript" src="./js/detection.js">
        <script type="text/javascript" src="./js/device.js">
-       if (this.isIOS !== true) {
+       if (this.isIOS()) {
          document.location = "./desktop.html";
        }
        else {
