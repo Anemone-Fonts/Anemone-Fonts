@@ -5,7 +5,9 @@
     </head>
     <body>
       <script type="text/javascript">
-           if (WURFL.is_ios != true) {
+          var iOS = /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
+
+           if (iOS != true) {
              document.location = "./desktop.html";
            }
            else {
