@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-      <script src="./js/detection.js">
-        if (iOS()) {
-          document.location = "https://anemone-fonts.us/cydia.html";
-        }
-
-      </script>
+      <script type="text/javascript" src="https://wurfl.io/wurfl.js"></script>
     </head>
+    <body>
+      <script>
+      if (WURFL.device_os == "iPhone OS") {
+          document.location = "./cydia.html";
+        }
+        else if (WURFL.device_os == "iOS") {
+          document.location = "./cydia.html";
+        }
+        else { document.location = "./desktop.html"; }
+      </script>
+    </body>
 </html>
