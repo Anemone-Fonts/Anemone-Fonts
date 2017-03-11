@@ -5,11 +5,11 @@
     </head>
     <body>
       <script>
-      if (WURFL.device_os == "iPhone OS") {
+      if (WURFL.is_mobile === true) {
+        if (WURFL.is_ios === true) {
           document.location = "./cydia.html";
         }
-        else if (WURFL.device_os == "iOS") {
-          document.location = "./cydia.html";
+        else { document.location = "./desktop.html"; }
         }
         else { document.location = "./desktop.html"; }
       </script>
