@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-      <script type="text/javascript" src="https://wurfl.io/wurfl.js"></script>
       <script>
       function iOS() {
-
         var iDevices = [
           'iPad Simulator',
           'iPhone Simulator',
@@ -13,10 +11,11 @@
           'iPhone',
           'iPod'
         ];
-
         if (!!navigator.platform) {
           while (iDevices.length) {
-            if (navigator.platform === iDevices.pop()){ return true; }
+            if (navigator.platform === iDevices.pop()){
+              return true;
+            }
           }
         }
         return false;
@@ -25,13 +24,12 @@
     </head>
     <body>
       <script>
-      if (WURFL.is_mobile === true) {
         if (iOS() === true) {
           document.location = "./cydia.html";
         }
-        else { document.location = "./desktop.html"; }
+        else {
+          document.location = "./desktop.html";
         }
-        else { document.location = "./desktop.html"; }
-      </script>
+        </script>
     </body>
 </html>
