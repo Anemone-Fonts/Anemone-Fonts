@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.EmojiOne2017
+Name: Emoji One 2017 for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Emoji One 2017 for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/EmojiOne2017/index.html
