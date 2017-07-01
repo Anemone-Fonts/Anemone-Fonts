@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo Creating New .deb’s
 
 # -- Using lzma compression will require dpkg 1.18.10 
