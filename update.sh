@@ -1,3 +1,4 @@
+#!/bin/bash
 # -- Comment out the following line if you just want a package list 
 ./package.sh 
 # --
