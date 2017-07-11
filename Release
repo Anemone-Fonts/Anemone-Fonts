@@ -4,7 +4,7 @@ Suite: stable
 Version: 4.2.0
 Codename: ⌐■_■
 Architectures: iphoneos-arm
-Components: main
+Components: anemone-fonts
 Description: A Cydia Repo For Anemone Fonts
 MD5Sum:
 c80a9765b5b057ff9ab224b18bad6972 49750 Packages
