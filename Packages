@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.alegreyasans_1.1_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.alegreyasans_1.1_iphoneos-arm.deb
 Size: 4488824
 MD5sum: 0ab5fbe98f16cd5872d450e11fe5b7d9
 SHA1: fa6c4268495d32f1ced6f3670c11a16e9ec67e06
@@ -19,7 +19,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.androidnemoji_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.androidnemoji_1.0_iphoneos-arm.deb
 Size: 47375128
 MD5sum: 5cb1e104527671b0dae7416a7b0721ed
 SHA1: 742db9b2272929e1ada648a458459cc78face0d3
@@ -35,7 +35,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.architectsdaughter_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.architectsdaughter_1.0_iphoneos-arm.deb
 Size: 3215962
 MD5sum: a5ef20fe7d3d6fbe3877093235a4c550
 SHA1: e563c52e17c8460ca44a053ca5f7fbe1fa15ebc9
@@ -51,7 +51,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.avenirnext_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.avenirnext_1.0_iphoneos-arm.deb
 Size: 5060580
 MD5sum: 1b082dab7fce88318aa3afaa310fdea3
 SHA1: 48950f43e0967b101b6141d6cf7beebadb9c8ebc
@@ -67,7 +67,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.avenirnextcondensed_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.avenirnextcondensed_1.0_iphoneos-arm.deb
 Size: 4570102
 MD5sum: 9510af1a330fd4a490dc3bb9010f4ee0
 SHA1: b558c9e6a405648ebd641c665a838937641dbe23
@@ -83,7 +83,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.bariolserif_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.bariolserif_1.0_iphoneos-arm.deb
 Size: 5584062
 MD5sum: a0e16c6d761dbc287b502e75772d0eb5
 SHA1: 11f48d5af7bee9787c924cf1aedd16a39cd2e4bf
@@ -99,7 +99,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.bariolios7_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.bariolios7_1.0_iphoneos-arm.deb
 Size: 3421024
 MD5sum: 8eb4a1afd78ce09cea504c6221dee0d0
 SHA1: d90748386028e662bb81e7fbe6b864b8b3db4043
@@ -115,7 +115,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.bariolios9_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.bariolios9_1.0_iphoneos-arm.deb
 Size: 5221366
 MD5sum: b585ea06f29c53a2779291a46467d587
 SHA1: 9bd5cf4bffbae939c587b7c762e01732c2814d56
@@ -131,7 +131,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.beatsbydre_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.beatsbydre_1.0_iphoneos-arm.deb
 Size: 4232906
 MD5sum: 28a7cd6d24700392bbbd5ece6a55d837
 SHA1: 6dcbdc646d31814b1217c8b204e7b9d241a3bd21
@@ -147,7 +147,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.billabong_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.billabong_1.0_iphoneos-arm.deb
 Size: 6109078
 MD5sum: 4b219e8b9a53cf9c3b0cb7ca07789be6
 SHA1: 91c57007fb51c2b0787f50594250b34eb54bb071
@@ -163,7 +163,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.blanch_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.blanch_1.0_iphoneos-arm.deb
 Size: 4501952
 MD5sum: 5178fce25994179942981c977e6a8ed0
 SHA1: ff7909f7f686668d665e04ce3b8db49e4a1d86ed
@@ -179,7 +179,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.bubblegumsans_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.bubblegumsans_1.0_iphoneos-arm.deb
 Size: 3106224
 MD5sum: 3fba7a135fdbd0216466b4ed2a512ad7
 SHA1: d7d097db32bfdf37e871236625d2e23643246c4a
@@ -195,7 +195,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.burstmybubble_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.burstmybubble_1.0_iphoneos-arm.deb
 Size: 3211432
 MD5sum: 5aa2ca946d4a7fd394b0e6c897ac2cc1
 SHA1: c7692cbfcc525db7049a7b9173d9267022282ea7
@@ -211,7 +211,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.cabin_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.cabin_1.0_iphoneos-arm.deb
 Size: 3147920
 MD5sum: ac12637d1cff19537255f5a193bba3d2
 SHA1: 047a0e5b304b67a0116960b4b3f98dc2f7628c6f
@@ -227,7 +227,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.calibri_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.calibri_1.0_iphoneos-arm.deb
 Size: 7721468
 MD5sum: 13a9f1bf0964fb34aa8602dc0821b3a8
 SHA1: f5e4695dbacb0aef87775bba406ac694fd29599a
@@ -243,7 +243,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.caviardreams_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.caviardreams_1.0_iphoneos-arm.deb
 Size: 3160988
 MD5sum: 4848d65a43648beac7161cfbe05fa0c6
 SHA1: 96a6230e259060528f3823dfbb6931b178aeeab6
@@ -259,7 +259,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.champagneandlimousines_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.champagneandlimousines_1.0_iphoneos-arm.deb
 Size: 3177254
 MD5sum: de66c1b2586986b0aad5ccb66a87b0f6
 SHA1: f057c4668afa1cddf6a6724f2d4b6c9954676e1a
@@ -275,7 +275,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.cicle_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.cicle_1.0_iphoneos-arm.deb
 Size: 4279120
 MD5sum: 4725db128f17d64fb40d97e918fce0ae
 SHA1: beef534bb184d959adfb2d879d3e39014aeee436
@@ -291,7 +291,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.circular_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.circular_1.0_iphoneos-arm.deb
 Size: 4616700
 MD5sum: 56a387ea96eb364b40e11b80fcf50ee9
 SHA1: d6a75d4d9239622568752953697453de9c7769d6
@@ -307,7 +307,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.clearsans_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.clearsans_1.0_iphoneos-arm.deb
 Size: 2877998
 MD5sum: ce4dbd8eeba5afc097dd538bd2dd0a28
 SHA1: 2fcc2bfbf936ee6632f83a1249d9cfad4fa07c70
@@ -323,7 +323,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.comfortaa_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.comfortaa_1.0_iphoneos-arm.deb
 Size: 3123992
 MD5sum: 0454b53c6ca5326498ec910388df77a2
 SHA1: 61c3a5c1af85a0961184b8cb3d59d67dd1bb3bda
@@ -339,7 +339,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.corporativesansrounded_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.corporativesansrounded_1.0_iphoneos-arm.deb
 Size: 4411272
 MD5sum: eadadf95e3c082910f14bd4ece68321e
 SHA1: 2a05de7f3077cc1a54bcb9e80d654177d46eeca3
@@ -355,7 +355,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.dindisplaypro_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.dindisplaypro_1.0_iphoneos-arm.deb
 Size: 4410360
 MD5sum: 3181ff6d0bfa212597aa7075c6152ed1
 SHA1: 25712610d836785c77851f62c888eddf8ba440c7
@@ -371,7 +371,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.droidsans_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.droidsans_1.0_iphoneos-arm.deb
 Size: 2986624
 MD5sum: c547fd7084c80175bed871f0f1a86dd9
 SHA1: 152e4a3ce2d158ab97aad6b3c83e112e2e56f200
@@ -387,7 +387,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.emojiflat_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.emojiflat_1.0_iphoneos-arm.deb
 Size: 37941334
 MD5sum: 268ec22eb3707801bcb5f68750389926
 SHA1: e91481a7a0e0c15ccc4e49f156621fba6a5cbf49
@@ -403,7 +403,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.emojione2016_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.emojione2016_1.0_iphoneos-arm.deb
 Size: 61058844
 MD5sum: 3bbaf4faad337f203790fcafedebdb7c
 SHA1: 6ed5d694be1b90d51ee5842a621ef0e5d4e3560b
@@ -419,7 +419,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.emojione2017_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.emojione2017_1.0_iphoneos-arm.deb
 Size: 39351926
 MD5sum: 42fa234e7971275d20196ead96e10a66
 SHA1: 9d06cfd2563efa7c156ded6c00cfc70d1f0108f7
@@ -435,7 +435,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.encoresanspro_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.encoresanspro_1.0_iphoneos-arm.deb
 Size: 4295828
 MD5sum: a5b351ac8e850d0b8d3b8f82df9c9c3d
 SHA1: 8b9ffa61244188823fc1dddbea658b98fec3523a
@@ -451,7 +451,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.exampleanemonefont_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.exampleanemonefont_1.0_iphoneos-arm.deb
 Size: 1024
 MD5sum: ae8d9280948ec2def566d73eaa845010
 SHA1: e4ac31198df5e4fd38f5f14e05607b0f14dfe085
@@ -467,7 +467,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.exo_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.exo_1.0_iphoneos-arm.deb
 Size: 3090554
 MD5sum: f892f73c8cc2db23b8001df8ab9998c8
 SHA1: 0ab087a123ba1b8a9220f6c5b6d5033e1d7ee059
@@ -483,7 +483,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.futuramabold_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.futuramabold_1.0_iphoneos-arm.deb
 Size: 3037160
 MD5sum: 9966e82782ddc9f90e08264d68ca8109
 SHA1: d5a9af20b7ab6ebc4d32a403a26c3b4f5defaad3
@@ -499,7 +499,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.geosanslight_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.geosanslight_1.0_iphoneos-arm.deb
 Size: 3120570
 MD5sum: a9406c8f7c3f77d29987a2a500bb456d
 SHA1: 9a37f5884dc9fd49d98db604e9122b7471a829b8
@@ -515,7 +515,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.geomanist_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.geomanist_1.0_iphoneos-arm.deb
 Size: 4164406
 MD5sum: 19467ce6830dbd75182c093aad57e73c
 SHA1: 10d820c07c54e74dd3b42d9c5d0118a4f248fb8e
@@ -531,7 +531,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.gothamnarrow_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.gothamnarrow_1.0_iphoneos-arm.deb
 Size: 4302092
 MD5sum: eefec5207352dd965f378ca614caccdd
 SHA1: 13eb3ede9ec7c8cfacd72258fcab5922937c01cd
@@ -547,7 +547,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1), Gunnii-8
-Filename: .//deb/us.anemone-fonts.gunnii8font_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.gunnii8font_1.0_iphoneos-arm.deb
 Size: 4596616
 MD5sum: 98debcf201d14a00384a3818d1880e82
 SHA1: 743701ce85c9d1e371be654235e0b2aab213b16b
@@ -563,7 +563,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.hattorihanzo_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.hattorihanzo_1.0_iphoneos-arm.deb
 Size: 3141584
 MD5sum: f07f16a2cc823296288c8d8b5be3577e
 SHA1: 77a923fe3f6542d81d60cac8f2f1d9ee1b242058
@@ -579,7 +579,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.helveticaneue_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.helveticaneue_1.0_iphoneos-arm.deb
 Size: 4732864
 MD5sum: 92cf72139cdf67d65e55a0ce5653ca4d
 SHA1: 7949f01d0c78f01e224fc9c81e8bd722d01320c8
@@ -595,7 +595,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.iskra_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.iskra_1.0_iphoneos-arm.deb
 Size: 4340246
 MD5sum: 780e6ed7947f2fa0ca10a332875b80ef
 SHA1: fed8c691bc28f3b8d92ee8bf773bf7a89f9ad926
@@ -611,7 +611,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.johnsanspro_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.johnsanspro_1.0_iphoneos-arm.deb
 Size: 4458588
 MD5sum: 9e57dfa9c8e191fb230c0efc523a7f18
 SHA1: 587b369b77a5c329fb8e94f2137dda5973b31373
@@ -627,7 +627,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.komikadisplay_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.komikadisplay_1.0_iphoneos-arm.deb
 Size: 3334050
 MD5sum: a3e179781b38e1323559673c4bc36ad5
 SHA1: 8004042d7024474ac61444c3a7e187d78cbe9b59
@@ -643,7 +643,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.lato_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.lato_1.0_iphoneos-arm.deb
 Size: 3112678
 MD5sum: 9b21a15d9fdbe03eaedd6d252ed4a1d0
 SHA1: 943febe8f483c4727cc922ba04d1bb16eb790467
@@ -659,7 +659,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.latolight_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.latolight_1.0_iphoneos-arm.deb
 Size: 3032522
 MD5sum: c3a82dd8c50f04b559d29039341a4fd6
 SHA1: 870ec230235c4dc6a5aeacedfef8413790f44aed
@@ -675,7 +675,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.lobstertwo_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.lobstertwo_1.0_iphoneos-arm.deb
 Size: 3231996
 MD5sum: 96af85e9f1bfbf94a03231e5ed455dc6
 SHA1: 85a35785ce57040afe6ee0a370d651c366bc3e1a
@@ -691,7 +691,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.loveiscomplicatedagain_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.loveiscomplicatedagain_1.0_iphoneos-arm.deb
 Size: 3401556
 MD5sum: cfbe87ca2c90c94a7f884950bb8363aa
 SHA1: ba77c84b9b7a357fb720faa2e2a11e70be442ba3
@@ -707,7 +707,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.metronovapro_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.metronovapro_1.0_iphoneos-arm.deb
 Size: 3656130
 MD5sum: cf5dde8b6f6014d10cc4ec43be7663fb
 SHA1: 3e3c3984ba17909a5901f8ad4ed891d9f8f63cbe
@@ -723,7 +723,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.museosansrounded_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.museosansrounded_1.0_iphoneos-arm.deb
 Size: 5441848
 MD5sum: 93d55400bd3c40dc9d6a34fd6004cbcd
 SHA1: 70c2c639a4b3d58222df662eb52b53f4957b6896
@@ -739,7 +739,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.myriadsetpro_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.myriadsetpro_1.0_iphoneos-arm.deb
 Size: 4706736
 MD5sum: a8d99da87c3e0fc7f0e8405a3f85bb7d
 SHA1: d7c3609836453c8159ec67082265e4a3649bba42
@@ -755,7 +755,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.neotech_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.neotech_1.0_iphoneos-arm.deb
 Size: 5478316
 MD5sum: c8379d79a0ee305d3b90123251aa2f37
 SHA1: 0a6b0b457294429e019862d8497439218bfcc741
@@ -771,7 +771,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.neuropol_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.neuropol_1.0_iphoneos-arm.deb
 Size: 3336308
 MD5sum: 2c2d24bf2fd2c060c4d068ecd308f05f
 SHA1: 7b2dcd4978a9f23bd6742a3268024ed83dd1fa50
@@ -787,7 +787,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.neutraface_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.neutraface_1.0_iphoneos-arm.deb
 Size: 5013222
 MD5sum: d0e111daafb6768371575eacb56f9b6e
 SHA1: 18294ba02f1aed120ebec984c86cf084e3a447cd
@@ -803,7 +803,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.novelsansrounded_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.novelsansrounded_1.0_iphoneos-arm.deb
 Size: 3739996
 MD5sum: a82f5944b52e8cd62c82daebee835267
 SHA1: 62ee95ed3f471ff44db7b1000b41edd699c30700
@@ -819,7 +819,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.oldeenglishios8_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.oldeenglishios8_1.0_iphoneos-arm.deb
 Size: 3072350
 MD5sum: 349cbd5003f86f09249e25b5df2d658f
 SHA1: 1f34795d3b8804ae383b7a0feeac338ee2271f04
@@ -835,7 +835,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.oldeenglishios9_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.oldeenglishios9_1.0_iphoneos-arm.deb
 Size: 3082998
 MD5sum: 41bb3ed7c8e571b6a9b716d7f1d72e5c
 SHA1: cac5129cb0b3f3ec38b51f3f3df13a417eb24020
@@ -851,7 +851,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.opensans_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.opensans_1.0_iphoneos-arm.deb
 Size: 2895570
 MD5sum: c972a89d808e4b7befca6f4369ce7b75
 SHA1: 1422fabaca8a9c507665d059c8704686bf9392b0
@@ -867,7 +867,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.oswald_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.oswald_1.0_iphoneos-arm.deb
 Size: 3146610
 MD5sum: 2aa63d6c371deacd97843ff4b3cba6d4
 SHA1: d67b95c6e4e99e55d1263f085b8a790e4e248f5f
@@ -883,7 +883,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.oxygen_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.oxygen_1.0_iphoneos-arm.deb
 Size: 3139058
 MD5sum: 8164864b733347430801bde38b68e17b
 SHA1: 24bdabe3cfc617a2174e10d24e8a0a6111509376
@@ -899,7 +899,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.pacifico_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.pacifico_1.0_iphoneos-arm.deb
 Size: 3034570
 MD5sum: cbf468dd370074e6039094dbf2cd3cf3
 SHA1: 6e3d452cc3c9ca88ff553eabfbb5d52cc6bf6045
@@ -915,7 +915,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.productsans_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.productsans_1.0_iphoneos-arm.deb
 Size: 4230220
 MD5sum: e01a826118d69cb7a7634450b8e62179
 SHA1: 6ef47ebec5c0efbb990c6867a8c8468bdd05771b
@@ -931,7 +931,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.proximanova_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.proximanova_1.0_iphoneos-arm.deb
 Size: 4203706
 MD5sum: df10dace924c952561d2d66efa21382b
 SHA1: 17bdf32b98904f052365ddda2ff37c7e74679654
@@ -947,7 +947,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.qarmicsans_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.qarmicsans_1.0_iphoneos-arm.deb
 Size: 3237022
 MD5sum: 99d59e74c9259b46426653a7fb4b26ac
 SHA1: a867281ac40490f3302e3c847dc86bc3da5ae567
@@ -963,7 +963,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.roboto_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.roboto_1.0_iphoneos-arm.deb
 Size: 2912942
 MD5sum: 065d89786e0c84b703bc738ac4de5897
 SHA1: 9e47a1b14e41cca53da955be85a953e9a99ac4d3
@@ -979,7 +979,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.robotocondensedlight_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.robotocondensedlight_1.0_iphoneos-arm.deb
 Size: 4471740
 MD5sum: 5a7bd555a2d94a19754c4fb8c343f581
 SHA1: 5e2d7a289db36a39bb58dec9a2165c7a7e4d48f7
@@ -995,7 +995,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.robotoslab_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.robotoslab_1.0_iphoneos-arm.deb
 Size: 2893924
 MD5sum: 61460cb1cd8c53b4e77bfb0dc5ba77a6
 SHA1: 947f52049196afd282914c71aeb4937839fc56c5
@@ -1011,7 +1011,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.sanfranciscorounded_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.sanfranciscorounded_1.0_iphoneos-arm.deb
 Size: 5501644
 MD5sum: bb7c7d1971dfb36b88aac4ccf93f1dda
 SHA1: dc286b342fb8e231b5131a2ae7cbe72e6a9ca56f
@@ -1027,7 +1027,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.sanfranciscoroundedlight_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.sanfranciscoroundedlight_1.0_iphoneos-arm.deb
 Size: 6121110
 MD5sum: 80aaf6a687bea73f9763edf8c49046a7
 SHA1: 12227e759908827ed14f400016d2fb31fceb2439
@@ -1043,7 +1043,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.segoeui_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.segoeui_1.0_iphoneos-arm.deb
 Size: 4230148
 MD5sum: a43029115dde0d15f01ec36fb301400b
 SHA1: f637ab38293c87686986f4eb05db17a246022a68
@@ -1059,7 +1059,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.solido_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.solido_1.0_iphoneos-arm.deb
 Size: 4421662
 MD5sum: f13dc26beb8e95a246292ccd56778962
 SHA1: ede673640e9c0d4afed0408f3ff13237b5085104
@@ -1075,7 +1075,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.sonysketchef_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.sonysketchef_1.0_iphoneos-arm.deb
 Size: 3195868
 MD5sum: c7bc827b901f787885d4d100ea45f732
 SHA1: a8dcfff33183bcdec992c5aa80d4b3a7d63abddf
@@ -1091,7 +1091,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.tf2secondaryios7_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.tf2secondaryios7_1.0_iphoneos-arm.deb
 Size: 3408076
 MD5sum: 0e81f4bc81cfcf80ee1f40ee546ae183
 SHA1: 873748b180b10b21da1f7537d0b550f0b797168e
@@ -1107,7 +1107,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.tabitha_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.tabitha_1.0_iphoneos-arm.deb
 Size: 3117726
 MD5sum: 663419c8a2a4df815d6f7d1d0e7ef4b8
 SHA1: 3e8235e56a99546739e6b4c1868ffe0e981b374d
@@ -1123,7 +1123,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.titilliumweb_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.titilliumweb_1.0_iphoneos-arm.deb
 Size: 3155218
 MD5sum: 6bba16c016bd2e73935d23d1aaa12029
 SHA1: e6a57d4d8855fa65b6a8e7d7128b9d27c188b33f
@@ -1139,7 +1139,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.twitteremojiios9_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.twitteremojiios9_1.0_iphoneos-arm.deb
 Size: 30686516
 MD5sum: c1e570eedec6ecd79cc3d894736d7cb4
 SHA1: c2f58316bd4e3070a4ce4cafceb798495cb9c4a7
@@ -1155,7 +1155,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.ubuntu_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.ubuntu_1.0_iphoneos-arm.deb
 Size: 2950606
 MD5sum: 05a27883b529d5908cce8e65dcc183f2
 SHA1: 5f992dbab1064f9e6cd5e6c9a82afff410ada7be
@@ -1171,7 +1171,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.ubuntulight_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.ubuntulight_1.0_iphoneos-arm.deb
 Size: 3045778
 MD5sum: 1ee8fd94c1e3b501b65d194564712e80
 SHA1: 10316d665e42a8777fae008e14e76b1cd6ac04d0
@@ -1187,7 +1187,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.vagrounded_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.vagrounded_1.0_iphoneos-arm.deb
 Size: 5330836
 MD5sum: aca45a75acb140951e7f99587979459e
 SHA1: b8bb2dcbaa58927b418408db53d4f05d613583e2
@@ -1203,7 +1203,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.anemone-fonts.varelaround_1.0_iphoneos-arm.deb
+Filename: ./deb/us.anemone-fonts.varelaround_1.0_iphoneos-arm.deb
 Size: 3552444
 MD5sum: d66d2f08c3a06002aa402c82386f3ed4
 SHA1: 4aaf8bf7334715abc204c96f772282d18a2bfbbb
@@ -1219,7 +1219,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: .//deb/us.mwoolweaver.baumans_1.1_iphoneos-arm.deb
+Filename: ./deb/us.mwoolweaver.baumans_1.1_iphoneos-arm.deb
 Size: 3178766
 MD5sum: ddb087e6fcdd202332c5f94d520468a6
 SHA1: 2c6662dce378cec85f26b564818e51e293745e9c
