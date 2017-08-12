@@ -1,0 +1,10 @@
+Package: us.anemone-fonts.EmojiiOS11
+Name: Emoji iOS 11 for Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Emoji iOS 11 (10.3-based) for Anemone
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (Emoji) (iOS 9 Anemone)
+Depiction: https://anemone-fonts.us/dep/EmojiiOS11/index.html
