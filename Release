@@ -6,11 +6,3 @@ Codename: anemone-fonts
 Architectures: iphoneos-arm
 Components: anemone-fonts
 Description: A Cydia Repo For Anemone Fonts
-MD5Sum:
-c80a9765b5b057ff9ab224b18bad6972 49750 Packages
-5bb59129ee48e91531e5c9b3b6164048 9057 Packages.bz2
-b1f6fc3c621c5a09558c05fb7a4d0f7c 10382 Packages.gz
-SHA1:
-1de8b5ab48f3977cb4ffe0af70f1f77481601ffb 49750 Packages
-0cbb9721180bd48fcf1e3f82da7cde5658685370 9057 Packages.bz2
-2c78dffe64205e2dd880dcdbfefb14f527cee572 10382 Packages.gz

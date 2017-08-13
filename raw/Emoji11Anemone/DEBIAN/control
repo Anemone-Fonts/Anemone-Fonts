@@ -6,5 +6,5 @@ Description: Emoji iOS 11 (10.3-based) for Anemone
 Depends: com.anemonetheming.anemone (>=2.0-1)
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Author: Michael Woolweaver <AnemoneFonts@gmail.com>
-Section: Fonts (Emoji) (iOS 9 Anemone)
+Section: Fonts (Emoji) (iOS 10 Anemone)
 Depiction: https://anemone-fonts.us/dep/EmojiiOS11/index.html
