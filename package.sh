@@ -2,11 +2,11 @@
 
 echo Creating New .deb’s
 
-# -- Using lzma compression will require dpkg 1.18.10 
+# -- Using lzma compression will require dpkg 1.18.10 --
 # -- More Info here --> https://github.com/theos/theos/issues/211 <--
 
-# -- list all packages you want to create with the follow format 
-# -- dpkg-deb -Zlzma -b [PackageLoction] [.debLocation]
+# -- list all packages you want to create with the follow format --
+# -- dpkg-deb -Zlzma -b [PackageLoction] [.debLocation] --
 
 dpkg-deb -Zlzma -b raw/AlegreyaSans deb/
 dpkg-deb -Zlzma -b raw/AndroidNemoji deb/
