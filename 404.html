@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script type="text/javascript" src="https://wurfl.io/wurfl.js"></script>
+  <script>
+    function iOS() {
+      var iDevices = [
+        'iPad Simulator',
+        'iPhone Simulator',
+        'iPod Simulator',
+        'iPad',
+        'iPhone',
+        'iPod'
+      ];
+      if (!!navigator.platform) {
+        while (iDevices.length) {
+          if (navigator.platform === iDevices.pop()) {
+            return true;
+          }
+        }
+      }
+      return false;
+    }
+  </script>
+</head>
+
+<body>
+  <script>
+    if (WURFL.is_mobile === true) {
+      if (iOS() === true) {
+        document.location = "https://mwoolweaver.us/404/cydia.html";
+      } else {
+        document.location = "https://mwoolweaver.us/404/desktop.html";
+      }
+    } else {
+      document.location = "https://mwoolweaver.us/404/desktop.html";
+    }
+  </script>
+</body>
+
+</html>
