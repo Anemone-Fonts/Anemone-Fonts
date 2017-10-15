@@ -1,6 +1,6 @@
 #!/bin/bash
 # -- Comment out the following line if you just want a package list --
-#./package.sh
+./package.sh
 # --
 
 # -- Expect this to fail if they haven't been created --
