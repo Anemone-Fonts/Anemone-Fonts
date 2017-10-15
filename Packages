@@ -450,22 +450,6 @@ Description: Encore Sans Pro Font Anemone
 Author: Michael Woolweaver <AnemoneFonts@gmail.com>
 Name: Encore Sans Pro Font Anemone
 
-Package: us.anemone-fonts.ExampleAnemoneFont
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
-Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: ./deb/us.anemone-fonts.exampleanemonefont_1.0_iphoneos-arm.deb
-Size: 1024
-MD5sum: ae8d9280948ec2def566d73eaa845010
-SHA1: e4ac31198df5e4fd38f5f14e05607b0f14dfe085
-SHA256: ef0920e3d8fa1f49923f7ad607b8f0c02cae6e9649b1b3de77dacceba6dc8adf
-Section: Fonts (iOS X.x Anemone)
-Description: This is an Example Anemone Font package
-Author: Michael Woolweaver <AnemoneFonts@gmail.com>
-Depiction: https://anemone-fonts.us/dep/Example_Depiction/index.html
-Name: Example Anemone Font
-
 Package: us.anemone-fonts.Exo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1185,4 +1169,3 @@ Section: Fonts (iOS 9 Anemone)
 Description: Baumans Font for Anemone
 Author: Michael Woolweaver <AnemoneFonts@gmail.com>
 Name: Baumans Font for Anemone
-
