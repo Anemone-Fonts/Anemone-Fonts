@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
 Depends: com.anemonetheming.anemone (>=1.1-348)
 Filename: ./Example_Anemone_Font/deb/us.anemone-fonts.exampleanemonefont_1.0_iphoneos-arm.deb
-Size: 1772
-MD5sum: fd8a431e50d880d43e744ebbc2d775ee
-SHA1: b4b948be5333f06d0cc3ec7d092be29e51d24b28
-SHA256: 6b11c123ce615fdfa3332d11f32602d102645f50122a679c84af36b42bf82152
+Size: 1344
+MD5sum: e5aaaf7ca8d05f79c233028d453b95af
+SHA1: 327bf9f4098e44c6103e2712a126b9a596c363fa
+SHA256: a23f293f39d27e4c5d0e8ee05bdd3e92d030a699d1c03b1d844d926590236314
 Section: Fonts (iOS X.x Anemone)
 Description: This is an Example Anemone Font package
 Author: Michael Woolweaver <AnemoneFonts@gmail.com>
-Depiction: https://anemone-fonts.ux/Example_Anemone_Font/dep/Example_Depiction/index.html
+Depiction: https://anemone-fonts.mwoolweaver.us/Example_Anemone_Font/dep/Example_Depiction/index.html
 Name: Example Anemone Font
 
 Package: us.anemone-fonts.AlegreyaSans
