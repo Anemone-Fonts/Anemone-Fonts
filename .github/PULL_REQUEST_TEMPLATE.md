@@ -1,5 +1,5 @@
 <!--
-## P/R Prerequisites
+P/R Prerequisites
 
 * Proof that the font works. i.e. screenshots, video, etc.
 
