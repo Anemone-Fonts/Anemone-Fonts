@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mwoolweaver
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anemonefonts.woolweaver.site
+  * I am mwoolweaver (https://keybase.io/mwoolweaver) on keybase.
+  * I have a public key ASDyozktfq8L_ZH5UxV5L4yUO9w55jWtuF6MLY6jmmxaNwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f2a3392d7eaf0bfd91f95315792f8c943bdc39e635adb85e8c2d8ea39a6c5a370a",
+      "host": "keybase.io",
+      "kid": "0120f2a3392d7eaf0bfd91f95315792f8c943bdc39e635adb85e8c2d8ea39a6c5a370a",
+      "uid": "c78e99af38a943f67ff46df976ece219",
+      "username": "mwoolweaver"
+    },
+    "merkle_root": {
+      "ctime": 1554313521,
+      "hash": "d677bdd15b393683a8648ebd974f09bdad54bc70f4d96dfaa1a0c6977fba110ba0964b666e75f1fea6b3507652824d1ad092bfc789e4bfa4956bb7cdb202d2f6",
+      "hash_meta": "e1cba7f43d5c20e5d4fffc1536acdfe25d8e4546ee230b3098883887221202e4",
+      "seqno": 5088695
+    },
+    "service": {
+      "entropy": "8z6nBmVyP5/fAFtSnQfUP5KG",
+      "hostname": "anemonefonts.woolweaver.site",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554313532,
+  "expire_in": 504576000,
+  "prev": "85ef729a90383506394e6855b7b9a69b712371e04e32966d82fb74196fef9703",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8qM5LX6vC/2R+VMVeS+MlDvcOeY1rbhejC2Oo5psWjcKp3BheWxvYWTESpcCG8Qghe9ympA4NQY5TmhVt7mmm3EjceBOMpZtgvt0GW/vlwPEIAlqXFqx3fPH5FlGCYRtxZGcgdoTkUkQWbhd9Z8ftryQAgHCo3NpZ8RA0ozzTAsilpCRL/M6KpoZMfBwASp0K3ba9wWYOqMLOhLRD6jHVWxluGszvB4p60HUQnnH+QDwASrlH1p9zRE3C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHZgzjBk8xFTnMuM4vQA91BPxsTu1vViLrEauhxTlolvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mwoolweaver
+
+==================================================================
